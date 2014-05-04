@@ -8,3 +8,6 @@ Notes for various courses at University of Waterloo in LaTeX/PDF format.
 
 If you find any mistakes in the notes and would like to have them corrected,
 please submit a pull request or create an issue :).
+
+If you have course notes for other courses, please feel free to send them directly
+to me (if you don't have a github account) or create a pull request to add them.
