@@ -2,7 +2,7 @@ Notes for various courses at University of Waterloo in LaTeX/PDF format.
 
 ## Courses
 
-- [http://www.ucalendar.uwaterloo.ca/1415/COURSE/course-CO.html#CO487](CO 487): Applied Cryptography
+- [CO 487](http://www.ucalendar.uwaterloo.ca/1415/COURSE/course-CO.html#CO487): Applied Cryptography (notes by Max Bennett ([maximusprimate](https://github.com/maximusprimate)), and Jason Lynch)
 
 ## Contributing
 
